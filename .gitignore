@@ -1,0 +1,20 @@
+# This is a sample .gitignore file for Unity projects
+
+# This ignores everything in the Library folder
+[Ll]ibrary/
+
+# This ignores everything in the Temp folder
+[Tt]emp/
+
+# This ignores everything in the Obj folder
+[Oo]bj/
+
+# This ignores everything in the Build folder
+[Bb]uild/
+
+# This ignores user-specific files
+*.userprefs
+*.csproj
+*.sln
+*.sav
+*.user
