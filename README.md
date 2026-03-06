@@ -1,16 +1,7 @@
-# League of Legends Unity Project
+# Tổng quan về dự án
+Dự án này là một trò chơi trực tuyến dựa trên nền tảng League of Legends. Người chơi sẽ tham gia vào các trận đấu, phát triển kỹ năng và chiến lược để chiến thắng.
 
-This project is a Unity game inspired by League of Legends.
-
-## Overview
-
-This project aims to replicate the gameplay mechanics and visuals of the famous MOBA.
-
-## Getting Started
-
-1. Open the project in Unity.
-2. Follow the setup instructions to get started.
-
-## Author
-
-- jacklangnguyen
+# Hướng dẫn cài đặt
+1. Tải về mã nguồn từ kho chứa này.
+2. Cài đặt các phụ thuộc cần thiết bằng lệnh: `npm install`
+3. Chạy ứng dụng bằng lệnh: `npm start`
